@@ -34,12 +34,12 @@ const sidebarsections = [
     {
         en: { name: "MY SPACES" },
         ru: { name: "МОИ ПРОСТРАНСТВА" },
-        jp: { title: "私のスペース" }
+        jp: { title: "私のスペースたち" }
     },
     {
         en: { name: "BOOST YOUR ACCOUNT" },
-        ru: { name: "เกม" },
-        jp: { name: "ゲーム" } 
+        ru: { name: "ПОДДЕРЖИТЕ СВОЙ АККАУНТ" },
+        jp: { name: "アカウントを強化する" } 
     }
 ]
 const sidebar = [
